@@ -1,0 +1,4 @@
+interface:
+  display_name: "ssh"
+  short_description: "Standardize one-off SSH login commands"
+  default_prompt: "Help the user standardize and run reusable SSH login flows. If no arguments are provided, show a concise usage message for /ssh and ./ssh_connect.sh."
